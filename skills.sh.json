@@ -1,0 +1,44 @@
+{
+  "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
+  "notGrouped": "bottom",
+  "groupings": [
+    {
+      "title": "Guardrails",
+      "description": "Skills transversais de qualidade e disciplina — sempre ativas em qualquer tarefa.",
+      "skills": [
+        "no-workarounds",
+        "systematic-debugging",
+        "verification-before-completion",
+        "find-rules",
+        "writing-clearly-and-concisely"
+      ]
+    },
+    {
+      "title": "Planning",
+      "description": "Clareza de requisitos, brainstorming de abordagens e especificações técnicas antes de codar.",
+      "skills": [
+        "requirements-clarity",
+        "brainstorming",
+        "creating-spec"
+      ]
+    },
+    {
+      "title": "Implementation",
+      "description": "Docs atualizados, execução em batches com checkpoints e infraestrutura como código.",
+      "skills": [
+        "context7",
+        "executing-plans",
+        "devops-engineer"
+      ]
+    },
+    {
+      "title": "Review & Learning",
+      "description": "Processar feedback de PR, revisão adversarial e lições de engenharia.",
+      "skills": [
+        "fix-coderabbit-review",
+        "adversarial-review",
+        "lesson-learned"
+      ]
+    }
+  ]
+}

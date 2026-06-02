@@ -1,5 +1,6 @@
 ---
 name: context7
+displayName: Docs Atualizados (Context7)
 description: >-
   Retrieves authoritative, up-to-date technical documentation, API references,
   configuration details, and code examples for any developer technology.

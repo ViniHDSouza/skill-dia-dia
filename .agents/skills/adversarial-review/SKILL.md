@@ -1,5 +1,6 @@
 ---
 name: adversarial-review
+displayName: "Revisão Adversarial"
 description: >-
   Adversarial code review using the opposite model. Spawns 1–3 reviewers on the
   opposing model (Claude spawns Codex, Codex spawns Claude) to challenge work from
