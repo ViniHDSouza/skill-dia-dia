@@ -1,0 +1,89 @@
+{
+  "version": 1,
+  "skills": {
+    "adversarial-review": {
+      "source": "pedronauck/skills",
+      "sourceType": "github",
+      "skillPath": "skills/community/adversarial-review/SKILL.md",
+      "computedHash": "a05ccb3817538f95e4bc1e9a9a934e5b5259abb657448ed10cd0d44c480f1a36"
+    },
+    "brainstorming": {
+      "source": "pedronauck/skills",
+      "sourceType": "github",
+      "skillPath": "skills/curated/brainstorming/SKILL.md",
+      "computedHash": "7de51459d56568d88784fdc94f7d27b9f0c2ee15dd562bac6d0e5f72e22a61b1"
+    },
+    "context7": {
+      "source": "pedronauck/skills",
+      "sourceType": "github",
+      "skillPath": "skills/curated/context7/SKILL.md",
+      "computedHash": "74462007e7013b4c4eea818b3a5bd50cfa8641f4c12135877fc9f082249d984d"
+    },
+    "creating-spec": {
+      "source": "pedronauck/skills",
+      "sourceType": "github",
+      "skillPath": "skills/community/creating-spec/SKILL.md",
+      "computedHash": "635b1c2e87d4c41867b2e56ceebbf1db4a9a00c88c68752638c3844c2432f47b"
+    },
+    "devops-engineer": {
+      "source": "pedronauck/skills",
+      "sourceType": "github",
+      "skillPath": "skills/community/devops-engineer/SKILL.md",
+      "computedHash": "ef4a12779a3f0a183f2d9bc1c0b8e0052a13d6cb6f788dd144cb20d40aa65c06"
+    },
+    "executing-plans": {
+      "source": "pedronauck/skills",
+      "sourceType": "github",
+      "skillPath": "skills/community/executing-plans/SKILL.md",
+      "computedHash": "6bf17ecd2e0f099a72281b1533ebbdba3fb118b62029d7fd66d2fc111a9df79d"
+    },
+    "find-rules": {
+      "source": "pedronauck/skills",
+      "sourceType": "github",
+      "skillPath": "skills/community/find-rules/SKILL.md",
+      "computedHash": "d672206a26717214fb9bb86dfd8295aeca437bf776c389cdd3a29285a8b06f12"
+    },
+    "fix-coderabbit-review": {
+      "source": "pedronauck/skills",
+      "sourceType": "github",
+      "skillPath": "skills/mine/fix-coderabbit-review/SKILL.md",
+      "computedHash": "d33cc316b95631cd848d775c60625f97f1b06090077479f0fad5536e91b7e71d"
+    },
+    "lesson-learned": {
+      "source": "pedronauck/skills",
+      "sourceType": "github",
+      "skillPath": "skills/curated/lesson-learned/SKILL.md",
+      "computedHash": "58e2a4062f3f113177658ef822dfc52ca10997a41b71098a6ae809b8f5ab316c"
+    },
+    "no-workarounds": {
+      "source": "pedronauck/skills",
+      "sourceType": "github",
+      "skillPath": "skills/mine/no-workarounds/SKILL.md",
+      "computedHash": "9152740f30281b732197a5dc9adaaeb7bcdd3a54bb21617826392bdbec4d44b0"
+    },
+    "requirements-clarity": {
+      "source": "pedronauck/skills",
+      "sourceType": "github",
+      "skillPath": "skills/community/requirements-clarity/SKILL.md",
+      "computedHash": "a23371d1cd5d8cfdd62af76ce0cd462095d35dfd612587ed30528b4a54105771"
+    },
+    "systematic-debugging": {
+      "source": "pedronauck/skills",
+      "sourceType": "github",
+      "skillPath": "skills/curated/systematic-debugging/SKILL.md",
+      "computedHash": "a13b7c3814e67d15f737886044c823e560e460900f86dae2587ebdc6b83a8052"
+    },
+    "verification-before-completion": {
+      "source": "pedronauck/skills",
+      "sourceType": "github",
+      "skillPath": "skills/curated/verification-before-completion/SKILL.md",
+      "computedHash": "d70f1880573d5c55507a4eca2e567fb8274e1870e4796b956fc1acb893638cb0"
+    },
+    "writing-clearly-and-concisely": {
+      "source": "pedronauck/skills",
+      "sourceType": "github",
+      "skillPath": "skills/marketing/writing-clearly-and-concisely/SKILL.md",
+      "computedHash": "8941c21d5127d6f7d87cefd9b5175b96c9e0dec0c20c663d68b9cb4331847d0a"
+    }
+  }
+}
