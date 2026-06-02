@@ -45,19 +45,40 @@ Estas skills se aplicam continuamente — nunca as ignore.
 
 ## Referência das Skills Instaladas
 
+### .agents/skills/
+
 ```
-skills/mine/no-workarounds/SKILL.md
-skills/mine/fix-coderabbit-review/SKILL.md
-skills/curated/systematic-debugging/SKILL.md
-skills/curated/verification-before-completion/SKILL.md
-skills/curated/brainstorming/SKILL.md
-skills/curated/context7/SKILL.md
-skills/curated/lesson-learned/SKILL.md
-skills/community/find-rules/SKILL.md
-skills/community/requirements-clarity/SKILL.md
-skills/community/creating-spec/SKILL.md
-skills/community/executing-plans/SKILL.md
-skills/community/devops-engineer/SKILL.md
-skills/community/adversarial-review/SKILL.md
-skills/marketing/writing-clearly-and-concisely/SKILL.md
+.agents/skills/adversarial-review/SKILL.md
+.agents/skills/brainstorming/SKILL.md
+.agents/skills/context7/SKILL.md
+.agents/skills/creating-spec/SKILL.md
+.agents/skills/devops-engineer/SKILL.md
+.agents/skills/executing-plans/SKILL.md
+.agents/skills/find-rules/SKILL.md
+.agents/skills/fix-coderabbit-review/SKILL.md
+.agents/skills/lesson-learned/SKILL.md
+.agents/skills/no-workarounds/SKILL.md
+.agents/skills/requirements-clarity/SKILL.md
+.agents/skills/systematic-debugging/SKILL.md
+.agents/skills/verification-before-completion/SKILL.md
+.agents/skills/writing-clearly-and-concisely/SKILL.md
+```
+
+### .claude/skills/
+
+```
+.claude/skills/adversarial-review/SKILL.md
+.claude/skills/brainstorming/SKILL.md
+.claude/skills/context7/SKILL.md
+.claude/skills/creating-spec/SKILL.md
+.claude/skills/devops-engineer/SKILL.md
+.claude/skills/executing-plans/SKILL.md
+.claude/skills/find-rules/SKILL.md
+.claude/skills/fix-coderabbit-review/SKILL.md
+.claude/skills/lesson-learned/SKILL.md
+.claude/skills/no-workarounds/SKILL.md
+.claude/skills/requirements-clarity/SKILL.md
+.claude/skills/systematic-debugging/SKILL.md
+.claude/skills/verification-before-completion/SKILL.md
+.claude/skills/writing-clearly-and-concisely/SKILL.md
 ```
