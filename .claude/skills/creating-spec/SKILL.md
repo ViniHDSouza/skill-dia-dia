@@ -1,5 +1,5 @@
 ---
-name: creating-spec
+name: Criar Spec Técnica
 displayName: Criar Spec Técnica
 description: Create comprehensive technical specs for SDK gaps, feature modules, or system centralization efforts. Use when writing specs, PRDs, gap analysis documents, or planning centralization of scattered functionality into a single module. Triggers on "create spec", "write spec", "gap spec", "centralize", "fill the gap".
 ---

@@ -1,5 +1,5 @@
 ---
-name: context7
+name: Docs Atualizados (Context7)
 displayName: Docs Atualizados (Context7)
 description: >-
   Retrieves authoritative, up-to-date technical documentation, API references,

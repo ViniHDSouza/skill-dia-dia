@@ -1,5 +1,5 @@
 ---
-name: writing-clearly-and-concisely
+name: Escrita Clara e Concisa
 displayName: Escrita Clara e Concisa
 description: Use when writing prose humans will read—documentation, commit messages, error messages, explanations, reports, or UI text. Applies Strunk's timeless rules for clearer, stronger, more professional writing.
 ---
