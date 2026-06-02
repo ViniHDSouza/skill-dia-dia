@@ -23,7 +23,7 @@ description: >-
   knowledge may be outdated.
 ---
 
-# Documentation Lookup
+# Docs Atualizados (Context7)
 
 Retrieve current documentation and code examples for any library using the Context7 CLI.
 

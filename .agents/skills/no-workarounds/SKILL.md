@@ -7,7 +7,7 @@ metadata:
   github: https://github.com/pedronauck
   repository: https://github.com/pedronauck/skills
 ---
-# No Workarounds
+# Sem Gambiarras
 
 ## The Fundamental Law
 

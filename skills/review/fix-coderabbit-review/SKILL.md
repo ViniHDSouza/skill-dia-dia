@@ -7,7 +7,7 @@ metadata:
   github: https://github.com/pedronauck
   repository: https://github.com/pedronauck/skills
 ---
-# Fix CodeRabbit Review
+# Corrigir Review de PR
 
 Execute PR review remediation in a strict sequence: export issues, fix all issues, commit once, resolve threads.
 

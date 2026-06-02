@@ -4,7 +4,7 @@ displayName: Descobrir Regras
 description: Discover and understand project rules, coding standards, and architectural guidelines before starting a task. Use when you need to know the constraints, patterns, or compliance requirements for a feature, file, or technology.
 ---
 
-# Find Rules
+# Descobrir Regras
 
 This skill helps you discover and understand the specific rules, conventions, and guidelines that apply to your current task. It systematically explores project documentation to ensure compliance with project standards.
 

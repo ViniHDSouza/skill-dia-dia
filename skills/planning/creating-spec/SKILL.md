@@ -4,7 +4,7 @@ displayName: Criar Spec Técnica
 description: Create comprehensive technical specs for SDK gaps, feature modules, or system centralization efforts. Use when writing specs, PRDs, gap analysis documents, or planning centralization of scattered functionality into a single module. Triggers on "create spec", "write spec", "gap spec", "centralize", "fill the gap".
 ---
 
-# Creating Spec
+# Criar Spec Técnica
 
 Systematic workflow for creating comprehensive technical specifications that centralize scattered functionality, fill SDK gaps, or plan new feature modules. This skill encodes the proven process used to produce high-quality specs like session-management and tool-registry-bridge specs.
 

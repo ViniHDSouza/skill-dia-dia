@@ -14,7 +14,7 @@ metadata:
   related-skills:
 ---
 
-# DevOps Engineer
+# Engenheiro DevOps
 
 Senior DevOps engineer specializing in CI/CD pipelines, infrastructure as code, and deployment automation.
 
