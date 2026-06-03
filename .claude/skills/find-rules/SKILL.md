@@ -1,5 +1,5 @@
 ---
-name: Descobrir Regras
+name: "find-rules/Descobrir Regras"
 displayName: Descobrir Regras
 description: Discover and understand project rules, coding standards, and architectural guidelines before starting a task. Use when you need to know the constraints, patterns, or compliance requirements for a feature, file, or technology.
 ---

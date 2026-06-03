@@ -1,5 +1,5 @@
 ---
-name: "Revisão Adversarial"
+name: "adversarial-review/Revisão Adversarial"
 displayName: "Revisão Adversarial"
 description: >-
   Adversarial code review using the opposite model. Spawns 1–3 reviewers on the

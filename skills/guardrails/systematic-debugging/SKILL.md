@@ -1,5 +1,5 @@
 ---
-name: Debug Sistemático
+name: "systematic-debugging/Debug Sistemático"
 displayName: Debug Sistemático
 description: Use when encountering any bug, test failure, or unexpected behavior, before proposing fixes
 ---
