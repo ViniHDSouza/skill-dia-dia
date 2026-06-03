@@ -1,6 +1,6 @@
 ---
 name: Aprimorar Prompts
-description: Transforms vague or poorly structured prompts into structured prompts using XML and Markdown. Applies techniques: goals, workflow (Chain-of-Thought), output format, few-shot patterns, delimiters. Produces prompts with task, goals, role, requirements (business, technical, UI/UX), workflow, output, endpoints, tests, and critical constraints. Do not use for prompts that are already well-structured or for general documentation.
+description: "Transforms vague or poorly structured prompts into structured prompts using XML and Markdown. Applies techniques - goals, workflow (Chain-of-Thought), output format, few-shot patterns, delimiters. Produces prompts with task, goals, role, requirements (business, technical, UI/UX), workflow, output, endpoints, tests, and critical constraints. Do not use for prompts that are already well-structured or for general documentation."
 ---
 
 # Prompt Enhancement
