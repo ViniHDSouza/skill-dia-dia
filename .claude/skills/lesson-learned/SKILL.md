@@ -1,9 +1,10 @@
 ---
-name: lesson-learned
+name: "lesson-learned/Lições Aprendidas"
+displayName: "Lições Aprendidas"
 description: "Analyze recent code changes via git history and extract software engineering lessons. Use when the user asks 'what is the lesson here?', 'what can I learn from this?', 'engineering takeaway', 'what did I just learn?', 'reflect on this code', or wants to extract principles from recent work."
 ---
 
-# Lesson Learned
+# Lições Aprendidas
 
 Extract specific, grounded software engineering lessons from actual code changes. Not a lecture -- a mirror. Show the user what their code already demonstrates.
 

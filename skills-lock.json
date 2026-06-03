@@ -84,6 +84,16 @@
       "sourceType": "github",
       "skillPath": ".agents/skills/writing-clearly-and-concisely/SKILL.md",
       "computedHash": "8941c21d5127d6f7d87cefd9b5175b96c9e0dec0c20c663d68b9cb4331847d0a"
+    },
+    "frontend-design": {
+      "source": "rodrigobranas/iadevt6_2",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/frontend-design/SKILL.md"
+    },
+    "prompt-enhancement": {
+      "source": "rodrigobranas/iadevt6_2",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/prompt-enhancement/SKILL.md"
     }
   }
 }

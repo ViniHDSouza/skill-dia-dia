@@ -1,9 +1,10 @@
 ---
-name: systematic-debugging
+name: "systematic-debugging/Debug Sistemático"
+displayName: Debug Sistemático
 description: Use when encountering any bug, test failure, or unexpected behavior, before proposing fixes
 ---
 
-# Systematic Debugging
+# Debug Sistemático
 
 ## Overview
 

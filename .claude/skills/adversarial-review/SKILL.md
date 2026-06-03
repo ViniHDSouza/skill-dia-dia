@@ -1,5 +1,6 @@
 ---
-name: adversarial-review
+name: "adversarial-review/Revisão Adversarial"
+displayName: "Revisão Adversarial"
 description: >-
   Adversarial code review using the opposite model. Spawns 1–3 reviewers on the
   opposing model (Claude spawns Codex, Codex spawns Claude) to challenge work from
@@ -7,7 +8,7 @@ description: >-
 schedule: "After cook sessions that produce large diffs (200+ lines), implement plan phases, or complete a planning session"
 ---
 
-# Adversarial Review
+# Revisão Adversarial
 
 Spawn reviewers on the **opposite model** to challenge work. Reviewers attack from distinct
 lenses grounded in brain principles. The deliverable is a synthesized verdict — do NOT make

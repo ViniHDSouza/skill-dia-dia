@@ -1,6 +1,6 @@
 # AGENTS.md
 
-> Skills de desenvolvimento agnósticas de stack. Fonte: [pedronauck/skills](https://github.com/pedronauck/skills)
+> Skills de desenvolvimento agnósticas de stack. Fontes: [pedronauck/skills](https://github.com/pedronauck/skills), [rodrigobranas/iadevt6_2](https://github.com/rodrigobranas/iadevt6_2)
 
 ## Guardrails (sempre ativos)
 
@@ -21,6 +21,7 @@ Estas skills se aplicam continuamente — nunca as ignore.
 | Requisitos vagos ou ambíguos | `requirements-clarity` | Diálogo estruturado para revelar complexidade oculta, contradições e edge cases faltantes |
 | Nova feature ou decisão arquitetural | `brainstorming` | Explorar abordagens, restrições e trade-offs antes de se comprometer com uma direção |
 | Necessidade de documentar decisão técnica | `creating-spec` | Gerar spec estruturada: contexto, solução, API surface, plano de migração, riscos |
+| Prompt vago ou mal estruturado | `prompt-enhancement` | Transformar prompts vagos em prompts estruturados com XML/Markdown, goals, workflow e requisitos categorizados |
 
 ### Durante a implementação
 
@@ -29,6 +30,7 @@ Estas skills se aplicam continuamente — nunca as ignore.
 | Precisa de docs atualizados de qualquer lib ou API | `context7` | Buscar documentação atualizada, referências de API e exemplos de código via Context7 CLI |
 | Plano de implementação com múltiplas etapas | `executing-plans` | Executar em lotes com checkpoints de revisão entre cada batch |
 | Docker, CI/CD, Kubernetes, Terraform | `devops-engineer` | Gerar Dockerfiles, pipelines, manifests e templates de IaC |
+| Criar interfaces frontend distintas e memoráveis | `frontend-design` | Gerar UIs production-grade com design marcante, evitando estética genérica de IA |
 
 ### Durante o review
 
@@ -62,6 +64,8 @@ Estas skills se aplicam continuamente — nunca as ignore.
 .agents/skills/systematic-debugging/SKILL.md
 .agents/skills/verification-before-completion/SKILL.md
 .agents/skills/writing-clearly-and-concisely/SKILL.md
+.agents/skills/frontend-design/SKILL.md
+.agents/skills/prompt-enhancement/SKILL.md
 ```
 
 ### .claude/skills/
@@ -81,4 +85,6 @@ Estas skills se aplicam continuamente — nunca as ignore.
 .claude/skills/systematic-debugging/SKILL.md
 .claude/skills/verification-before-completion/SKILL.md
 .claude/skills/writing-clearly-and-concisely/SKILL.md
+.claude/skills/frontend-design/SKILL.md
+.claude/skills/prompt-enhancement/SKILL.md
 ```

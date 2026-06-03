@@ -1,7 +1,7 @@
-# Guia Prático das 14 Skills Instaladas
+# Guia Prático das 16 Skills Instaladas
 
 > Situações reais do dia a dia e exemplos concretos de como usar cada skill.
-> Fonte: [pedronauck/skills](https://github.com/pedronauck/skills)
+> Fontes: [pedronauck/skills](https://github.com/pedronauck/skills), [rodrigobranas/iadevt6_2](https://github.com/rodrigobranas/iadevt6_2)
 
 ---
 
@@ -654,6 +654,136 @@ que mudaram, complexidades inesperadas."
 
 ---
 
+## 15. frontend-design
+
+**O que faz:** Cria interfaces frontend distintas e production-grade, evitando estética genérica de IA. Guia tipografia, cores, animações, composição espacial e detalhes visuais.
+
+### Situações reais
+
+**Situação A — Landing page para produto:**
+
+```
+Prompt para o agente:
+"Crie uma landing page para um app de meditação. Use frontend-design
+para garantir um design memorável: tipografia única, paleta coesa,
+animações de entrada orquestradas, e composição que surpreenda.
+Nada de Inter/Roboto com gradiente roxo genérico."
+```
+
+**Situação B — Dashboard admin:**
+
+```
+Prompt para o agente:
+"Redesigne o dashboard de analytics. Use frontend-design para criar
+uma estética editorial/magazine: tipografia marcante, uso intencional
+de espaço negativo, micro-interações nos cards de métricas,
+e tema escuro com acentos vibrantes."
+```
+
+**Situação C — Componente React estilizado:**
+
+```
+Prompt para o agente:
+"Crie um card de produto para e-commerce. Use frontend-design
+para evitar o padrão genérico. Quero algo com personalidade:
+hover effects surpreendentes, tipografia expressiva, sombras
+dramáticas, e transições suaves com Motion."
+```
+
+---
+
+## 16. prompt-enhancement
+
+**O que faz:** Transforma prompts vagos ou mal estruturados em prompts estruturados com XML e Markdown, aplicando técnicas de prompt engineering (goals, workflow, Chain-of-Thought, output format, few-shot).
+
+### Situações reais
+
+**Situação A — Ticket vago que precisa virar prompt:**
+
+```
+Prompt para o agente:
+"Recebi este pedido: 'Implemente um painel de clima que mostra o tempo
+atual de uma cidade.' Use prompt-enhancement para transformar isso
+em um prompt estruturado com task, role, requirements (business,
+technical, UI/UX), workflow, endpoints e critical constraints."
+```
+
+**Situação B — Feature complexa que precisa de contexto:**
+
+```
+Prompt para o agente:
+"Preciso implementar um sistema de notificações em tempo real.
+Use prompt-enhancement para estruturar: definir o papel do agente,
+separar requisitos por categoria, incluir workflow com checkpoints,
+documentar os endpoints WebSocket, e listar skills obrigatórias."
+```
+
+**Situação C — Refatoração que precisa de escopo claro:**
+
+```
+Prompt para o agente:
+"Quero refatorar o módulo de autenticação de session-based para JWT.
+Use prompt-enhancement para criar um prompt que defina exatamente
+o escopo, o que está fora do escopo (NUNCA alterar X), e os
+passos de migração em ordem."
+```
+
+---
+
+## Fluxo Completo: Exemplo Real de Ponta a Ponta (Atualizado)
+
+**Cenário:** Implementar sistema de cupons de desconto.
+
+```
+FASE 0 — Estruturar o prompt
+→ prompt-enhancement
+"O PO mandou: 'sistema de cupons'. Transforme em prompt estruturado
+com task, role, requirements, workflow e critical."
+
+FASE 1 — Entender o requisito
+→ requirements-clarity
+"Clarifique: cupons de valor fixo ou percentual? Com validade?
+Limite de uso? Por usuário ou global?"
+
+FASE 2 — Explorar abordagens
+→ brainstorming
+"Cupons como entidade separada vs campo no pedido?
+Trade-offs de cada abordagem."
+
+FASE 3 — Documentar a decisão
+→ creating-spec
+"Spec técnica: modelo de dados, endpoint de validação, regras."
+
+FASE 4 — Buscar docs das libs
+→ context7
+"Docs do Bean Validation no Spring Boot para custom validators."
+
+FASE 5 — Implementar em batches
+→ executing-plans
+"Batch 1: Model + Migration + Repository
+Batch 2: Service com regras de validação
+Batch 3: Controller + DTOs + Testes"
+
+FASE 6 — Design da UI
+→ frontend-design
+"Crie a UI do formulário de aplicação de cupom com design
+marcante, feedback visual de sucesso/erro, e animações."
+
+FASE 7 — Verificar cada batch
+→ verification-before-completion + no-workarounds
+
+FASE 8 — Review final
+→ adversarial-review
+
+FASE 9 — Processar review do CI
+→ fix-coderabbit-review
+
+FASE 10 — Documentar lições
+→ lesson-learned
+```
+
+---
+
 ## Referência Rápida
 
 | Preciso de... | Use esta skill |
@@ -672,3 +802,5 @@ que mudaram, complexidades inesperadas."
 | Processar review do PR | `fix-coderabbit-review` |
 | Validar antes do deploy | `adversarial-review` |
 | Aprender com o que foi feito | `lesson-learned` |
+| Criar UI marcante e única | `frontend-design` |
+| Estruturar prompt vago | `prompt-enhancement` |
