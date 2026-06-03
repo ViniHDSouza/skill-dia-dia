@@ -22,8 +22,8 @@ Skills organizadas em buckets dentro de `skills/`. Instale todas ou escolha por 
 | Bucket | Skills |
 |--------|--------|
 | `guardrails/` | `no-workarounds`, `systematic-debugging`, `verification-before-completion`, `find-rules`, `writing-clearly-and-concisely` |
-| `planning/` | `requirements-clarity`, `brainstorming`, `creating-spec` |
-| `implementation/` | `context7`, `executing-plans`, `devops-engineer` |
+| `planning/` | `requirements-clarity`, `brainstorming`, `creating-spec`, `prompt-enhancement` |
+| `implementation/` | `context7`, `executing-plans`, `devops-engineer`, `frontend-design` |
 | `review/` | `fix-coderabbit-review`, `adversarial-review`, `lesson-learned` |
 
 ---
